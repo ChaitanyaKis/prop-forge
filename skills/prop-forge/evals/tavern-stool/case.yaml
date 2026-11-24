@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: tavern-stool
+expected_outcome: |
+  A .glb of a three-legged stool at real size (seat about 0.45-0.65 m high), legs splayed and joined into the seat, worn wood from a CC0 photo texture with grain along the parts, under 4000 triangles, standing on z=0, checked in rendered pictures.
